@@ -15,7 +15,11 @@ Built using HTML, CSS, and JavaScript to practice modern UI design and user inte
 ---
 
 ## 🖥️ Preview
-![Preview](preview.png)
+### Login Screen
+![Login Preview](preview1.png)
+
+### Sign Up Screen
+![Sign Up Preview](preview2.png)
 
 ---
 
